@@ -1,10 +1,10 @@
-#Programa para aprender Git 
-# Multimplica dos números
 
+# Operaciones con números 
 
-a = 2 # a Es una variable
-b = 2 # b Es una variable
+# Suma 
 
-c = a*b
+num1_suma = 2
+num2_suma = 2
+resultado_suma = num1_suma + num2_suma
 
-print("El resultado es:",c)
+print ("El resultado de la suma es: ", resultado_suma)

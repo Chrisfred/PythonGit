@@ -1,2 +1,7 @@
+
+#Acciones de saludar
+
 saludo = (input("Introduce un saludo: "))
-print ("El saludos dice:\n",saludo)
+
+if saludo == "Hi":
+        print ("Hi too")

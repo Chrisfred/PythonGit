@@ -7,7 +7,7 @@ num1_suma = 2
 num2_suma = 2
 resultado_suma = num1_suma + num2_suma
 
-print ("El resultado de la suma es: ", resultado_suma, "y es un valor correcto, sin lugar alguna")
+print ("Tambien hay probar, El resultado de la suma es: ", resultado_suma, "y es un valor correcto, sin lugar alguna")
 
 #Suma con datos de ingreso
 

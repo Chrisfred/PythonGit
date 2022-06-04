@@ -7,7 +7,7 @@ num1_suma = 2
 num2_suma = 2
 resultado_suma = num1_suma + num2_suma
 
-print ("El resultado de la suma es: ", resultado_suma, "It's not a automation, pero voy hacer un plan de acción")
+print ("El resultado de la suma es: ", resultado_suma, "It's not a automation, but I'm going to change the code")
 
 a =  int (input ("ingrese el ptimer numero: "))
 b = int(input("Ingrese en el segundo numero: "))

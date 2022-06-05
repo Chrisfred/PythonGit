@@ -13,4 +13,4 @@ a =  int (input ("ingrese el ptimer numero: "))
 b = int(input("Ingrese en el segundo numero: "))
 c = a + b
 print("El resultados", c, "This is a automation")
-
+print ("Ya estamos en gitHub")

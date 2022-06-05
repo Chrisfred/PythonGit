@@ -14,3 +14,4 @@ b = int(input("Ingrese en el segundo numero: "))
 c = a + b
 print("El resultados", c, "This is a automation")
 print ("Ya estamos en gitHub")
+print ("Operadores V 2.0")

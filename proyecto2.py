@@ -6,3 +6,4 @@ numero2 = int(input("Introduce el segundo numero: "))
 resultado = numero1 - numero2
 print ("El numero que ingreso es:\n",resultado)
 
+print ("Iniciamos la versión Resta del proyecto 2 por Freddy Cuenca")

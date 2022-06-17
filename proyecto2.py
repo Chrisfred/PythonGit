@@ -12,3 +12,6 @@ print("El nuevo resulrado es: ", res)
 
 
 print ("El programa ha terminado")
+
+exit()
+

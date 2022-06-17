@@ -11,4 +11,4 @@ res = resultado -a
 print("El nuevo resulrado es: ", res)
 
 
-print ("Iniciamos la versión Resta del proyecto 2 por Freddy Cuenca")
+print ("El programa ha terminado")

@@ -3,5 +3,5 @@
 
 saludo = (input("Introduce un saludo: "))
 
-if saludo == "Hi":
-        print ("Hi too")
+if saludo == "Hi, How are you?":
+        print ("Hi, I very good, and you?")

@@ -12,6 +12,6 @@ print("El nuevo resulrado es: ", res)
 
 
 print ("El programa ha terminado")
-
+print ("El siguiente es una automatización")
 exit()
 

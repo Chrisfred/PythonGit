@@ -13,5 +13,6 @@ print("El nuevo resulrado es: ", res)
 
 print ("El programa ha terminado")
 print ("El siguiente es una automatización")
+print ("Iniciaremos con una segunda automatización")
 exit()
 
